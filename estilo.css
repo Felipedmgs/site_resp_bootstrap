@@ -5,3 +5,19 @@
 .divs-facilidades{
     width: 325px;
 }
+
+.custom-text{
+    color: #daff01;
+}
+
+.custom-buttom{
+    background-color: #9353FF !important;
+    color: #ffff;
+    border-color: #9353FF !important;
+}
+
+@media(min-width: 768px) {
+    .div-novidades {
+        width: 696px;
+    }
+}
